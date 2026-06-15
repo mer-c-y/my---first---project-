@@ -1,13 +1,36 @@
-# Mercy's first code project welcome to my first github repository;
-# About me 
-Hi I'm Mercy and I'm just starting my coding journey 
-# what's in here 
-This project contains my first steps into coding and version control 
-# My Goals 
-- learn how to use github
-- Understand how code is stored and shared
-- create my first projects
-  # Current status
-  Just getting started!
-  # How to reach me
-  Feel free to follow my journey as I learn !
+# Mercy's First Coding Project
+
+Welcome to my first GitHub repository!
+
+
+
+## About Me
+Hi, I'm Mercy, and I'm just starting my coding journey.
+
+
+## What's in here
+This project contains my first steps into coding and version control.
+
+
+
+## My Goals
+- Learn how to use GitHub  
+- Understand how code is stored and shared  
+- Create my first projects  
+
+
+## Current Status
+Just getting started!
+
+
+## Files in this Repository
+- Introduction to my coding journey  
+- My first Python program: `hello.py`  
+- My first JavaScript program: `welcome.js`  
+
+
+## How to Reach Me
+Feel free to follow my journey as I learn and grow in tech!
+
+
+*Introduction to my coding journey*
