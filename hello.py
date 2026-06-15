@@ -1,4 +1,5 @@
-Mercy's first code :
-# My first python program!
-name = "Mercy"
-print (F "Hello, {name}! Welcome to github!" (This is my first code!") 
+ # My first Python program!
+
+name = "Mercy - Github master"
+print(f"Hello, {name}! Welcome to GitHub! This is my first code!")
+hello.py - I'm becoming a GitHub master!
